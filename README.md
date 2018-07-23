@@ -1,5 +1,5 @@
 # CRUD-NODE-ES6
 
-#WIP Need some changes
+#Crud with mongoDB, examples with es6!!!
 
 #Npm I enjoy =)
