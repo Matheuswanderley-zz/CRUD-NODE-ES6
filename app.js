@@ -26,7 +26,7 @@ app.use(bodyParser.urlencoded({extended: false}));
 
 app.use('/products', product);
 
-const port = 3000;
+let port = 3000;
 
 app.listen(port, () => {
     console.log('Server is up and running on port numner ' + port);
